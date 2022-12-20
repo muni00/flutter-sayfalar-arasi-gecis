@@ -7,3 +7,16 @@
 <img src = "https://user-images.githubusercontent.com/58309495/208744064-73073777-5669-4a0d-9ecd-fb594739ed8b.jpeg" width="200" height="400">
 <img src = "https://user-images.githubusercontent.com/58309495/208744071-87e1a731-a04f-43d8-b10b-214d78c314da.jpeg" width="200" height="400">
 <img src = "https://user-images.githubusercontent.com/58309495/208744073-9cbfcba8-deca-4dd4-8257-eda1ef0188ab.jpeg" width="200" height="400">
+
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
+    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+  </tr>
+ </table>
