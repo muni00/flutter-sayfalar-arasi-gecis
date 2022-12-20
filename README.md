@@ -1,6 +1,8 @@
 # flutter-sayfalar-arasi-gecis
 ### Uygulama Senaryosu (!)
-- flutter bootcamp ödevlerinden bir olan bu basit program içerisinde : pop , push , pushReplacement ve WillPopScop işlevleri barındırmaktadır. Aşağıdaki görsellerde görüldüğü üzere [anasayfa > sayfa a > sayfa b >sayfa y] ya da [anasayfa > sayfa x > sayfa y]şeklinde iki yol çizer. Sayfa y'ye gelince ise geri tuşu ile anasayfaya dönülür.
+- flutter bootcamp ödevlerinden bir olan bu basit program içerisinde : pop , push , pushReplacement ve WillPopScop işlevleri barındırmaktadır. Aşağıdaki görsellerde görüldüğü üzere :
+* [ anasayfa > sayfa a > sayfa b >sayfa y] ya da [anasayfa > sayfa x > sayfa y]
+şeklinde iki yol çizer. Sayfa y'ye gelince ise geri tuşu ile anasayfaya dönülür.
 <br/>
 <table>
   <tr>
